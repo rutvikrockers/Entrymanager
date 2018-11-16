@@ -1,0 +1,292 @@
+[
+    {
+        "outputFile": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 79,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 79,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 85,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 85,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 80,
+                    "endOffset": 297
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 80,
+                        "endOffset": 297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 302,
+                    "endColumn": 57,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 57,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endColumn": 99,
+                    "endOffset": 455
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 99,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 460,
+                    "endColumn": 73,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 73,
+                        "endOffset": 529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 100,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 534,
+                        "endColumn": 100,
+                        "endOffset": 630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 79,
+                    "endOffset": 710
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 635,
+                        "endColumn": 79,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 715,
+                    "endColumn": 72,
+                    "endOffset": 783
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endColumn": 72,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 788,
+                    "endColumn": 71,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 71,
+                        "endOffset": 855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 860,
+                    "endColumn": 80,
+                    "endOffset": 936
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 860,
+                        "endColumn": 80,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 941,
+                    "endColumn": 80,
+                    "endOffset": 1017
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 80,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1022,
+                    "endColumn": 81,
+                    "endOffset": 1099
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endColumn": 81,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1104,
+                    "endColumn": 79,
+                    "endOffset": 1179
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 79,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1184,
+                    "endColumn": 94,
+                    "endOffset": 1274
+                },
+                "from": {
+                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/res/values-es/values-es.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 94,
+                        "endOffset": 1274
+                    }
+                }
+            }
+        ]
+    }
+]

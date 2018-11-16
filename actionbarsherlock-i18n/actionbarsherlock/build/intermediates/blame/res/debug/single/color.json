@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/rockers/Rutvik/AndroidTicketSoftware/Android/Ticketing Demo Uploaded/Application/actionbarsherlock/build/intermediates/res/merged/debug/color/abs__primary_text_disable_only_holo_light.xml",
+        "source": "/home/rockers/Rutvik/AndroidTicketSoftware/Android/Ticketing Demo Uploaded/Application/actionbarsherlock/res/color/abs__primary_text_disable_only_holo_light.xml"
+    },
+    {
+        "merged": "/home/rockers/Rutvik/AndroidTicketSoftware/Android/Ticketing Demo Uploaded/Application/actionbarsherlock/build/intermediates/res/merged/debug/color/abs__primary_text_disable_only_holo_dark.xml",
+        "source": "/home/rockers/Rutvik/AndroidTicketSoftware/Android/Ticketing Demo Uploaded/Application/actionbarsherlock/res/color/abs__primary_text_disable_only_holo_dark.xml"
+    },
+    {
+        "merged": "/home/rockers/Rutvik/AndroidTicketSoftware/Android/Ticketing Demo Uploaded/Application/actionbarsherlock/build/intermediates/res/merged/debug/color/abs__primary_text_holo_light.xml",
+        "source": "/home/rockers/Rutvik/AndroidTicketSoftware/Android/Ticketing Demo Uploaded/Application/actionbarsherlock/res/color/abs__primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/home/rockers/Rutvik/AndroidTicketSoftware/Android/Ticketing Demo Uploaded/Application/actionbarsherlock/build/intermediates/res/merged/debug/color/abs__primary_text_holo_dark.xml",
+        "source": "/home/rockers/Rutvik/AndroidTicketSoftware/Android/Ticketing Demo Uploaded/Application/actionbarsherlock/res/color/abs__primary_text_holo_dark.xml"
+    }
+]

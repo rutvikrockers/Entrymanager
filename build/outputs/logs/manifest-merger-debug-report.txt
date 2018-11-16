@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:2:1-97:12
+	package
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:4:5-36
+	android:versionName
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:7:5-30
+		INJECTED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:6:5-28
+		INJECTED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:5:5-35
+uses-sdk
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:9:5-11:41
+MERGED from [entrymanager:actionbarsherlock-i18n:unspecified] /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [entrymanager:actionbarsherlock:unspecified] /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:11:9-38
+	android:minSdkVersion
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:10:9-35
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:16:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:20:5-60
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:20:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:21:19-67
+application
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:23:5-95:19
+REJECTED from [entrymanager:actionbarsherlock-i18n:unspecified] /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/bundles/default/AndroidManifest.xml:11:5-20
+REJECTED from [entrymanager:actionbarsherlock:unspecified] /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/AndroidManifest.xml:12:5-43:19
+	tools:node
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:27:9-29
+	android:label
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:24:9-36
+	android:icon
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:25:9-43
+	android:theme
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:29:9-40
+	tools:replace
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:26:9-44
+receiver#com.ticketembassy.entrymanager.NetworkStateReceiver
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:31:9-38:20
+	android:enabled
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:33:13-35
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:32:13-79
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE+android.net.wifi.WIFI_STATE_CHANGED
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:34:13-37:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:35:17-79
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:35:25-76
+action#android.net.wifi.WIFI_STATE_CHANGED
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:36:25-75
+activity#com.ticketembassy.entrymanager.CameraPreview
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:41:13-72
+activity#com.ticketembassy.entrymanager.CameraTestActivity
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:45:9-48:20
+	android:label
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:46:13-77
+activity#com.ticketembassy.entrymanager.Login
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:51:13-64
+activity#com.ticketembassy.entrymanager.Dashboard
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:55:9-69:20
+	android:label
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:57:13-61
+	android:launchMode
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:58:13-43
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:56:13-68
+intent-filter#android.intent.action.SEARCH
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:59:13-61:29
+action#android.intent.action.SEARCH
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:60:17-71
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:60:25-68
+meta-data#android.app.default_searchable
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:63:13-65:46
+	android:value
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:65:17-43
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:64:17-62
+meta-data#android.app.searchable
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:66:13-68:54
+	android:resource
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:68:17-51
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:67:17-54
+activity#com.ticketembassy.entrymanager.EventDetail
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:71:9-74:20
+	android:label
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:73:13-64
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:72:13-70
+activity#com.ticketembassy.entrymanager.EventAttendee
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:76:9-80:20
+	android:label
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:78:13-66
+	android:configChanges
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:79:13-59
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:77:13-72
+activity#com.ticketembassy.entrymanager.Settings
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:82:9-85:20
+	android:label
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:84:13-60
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:83:13-67
+activity#com.ticketembassy.entrymanager.Splash
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:87:9-94:20
+	android:label
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:89:13-58
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:88:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:90:13-93:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:91:17-69
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:91:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:92:17-77
+	android:name
+		ADDED from /Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/AndroidManifest.xml:92:27-74

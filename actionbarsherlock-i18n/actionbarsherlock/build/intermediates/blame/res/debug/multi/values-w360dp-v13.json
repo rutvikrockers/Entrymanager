@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/rockers/Rutvik/AndroidTicketSoftware/Android/Ticketing Demo Uploaded/Application/actionbarsherlock/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/rockers/Rutvik/AndroidTicketSoftware/Android/Ticketing Demo Uploaded/Application/actionbarsherlock/res/values-w360dp/abs__dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 729,
+                        "endColumn": 55,
+                        "endOffset": 780
+                    }
+                }
+            }
+        ]
+    }
+]
