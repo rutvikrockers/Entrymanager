@@ -16,12 +16,12 @@
         "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/icons_big.png"
     },
     {
-        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/button_background.9.png",
-        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/button_background.9.png"
-    },
-    {
         "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/textbox_login.9.png",
         "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/textbox_login.9.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/button_background.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/button_background.9.png"
     },
     {
         "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/scan_default.9.png",

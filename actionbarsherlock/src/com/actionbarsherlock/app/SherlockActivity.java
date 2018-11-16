@@ -37,7 +37,7 @@ public  class SherlockActivity extends Activity implements OnCreatePanelMenuList
         return getSherlock().getActionBar();
     }
 
-    public ActionMode startActionMode(ActionMode.Callback callback) {
+    public  ActionMode startActionMode(ActionMode.Callback callback) {
         return getSherlock().startActionMode(callback);
     }
 

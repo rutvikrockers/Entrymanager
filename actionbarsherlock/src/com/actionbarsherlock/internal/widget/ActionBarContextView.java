@@ -15,6 +15,7 @@
  */
 package com.actionbarsherlock.internal.widget;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.res.TypedArray;
 import android.graphics.drawable.Drawable;
@@ -429,7 +430,7 @@ public class ActionBarContextView extends AbsActionBarView implements AnimatorLi
         if (mMenuView != null) {
             final int count = mMenuView.getChildCount();
             if (count > 0) {
-                for (int i = 0; i < 0; i++) {
+                for (int i = 0; i <=0; i++) {
                     AnimatorProxy child = AnimatorProxy.wrap(mMenuView.getChildAt(i));
                     child.setScaleY(0);
                     ObjectAnimator a = ObjectAnimator.ofFloat(child, "scaleY", 0);
@@ -503,6 +504,7 @@ public class ActionBarContextView extends AbsActionBarView implements AnimatorLi
         return false;
     }
 
+    @SuppressLint("MissingSuperCall")
     @Override
     public void onInitializeAccessibilityEvent(AccessibilityEvent event) {
         if (event.getEventType() == AccessibilityEvent.TYPE_WINDOW_STATE_CHANGED) {

@@ -226,7 +226,12 @@ public class EventDetail extends SherlockActivity {
 					.getColumnIndex("user_id")));
 			//}
 		}
-		cursor.moveToFirst();
+		try {
+			cursor.moveToFirst();
+		}catch (NullPointerException e){
+			e.printStackTrace();
+		}
+
 	}
 
 	/*

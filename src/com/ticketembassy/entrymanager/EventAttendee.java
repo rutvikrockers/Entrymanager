@@ -439,7 +439,7 @@ public class EventAttendee extends SherlockActivity implements SearchView.OnQuer
 		if (null != cursor) {
 			while (cursor.moveToNext()) {
 				Log.e("exists", "fs");
-				return true;
+				//return true;
 			}
 		}
 		cursor.moveToFirst();

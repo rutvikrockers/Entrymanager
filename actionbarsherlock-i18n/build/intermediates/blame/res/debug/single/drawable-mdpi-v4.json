@@ -260,12 +260,12 @@
         "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/drawable-mdpi-v4/abs__ic_clear_normal.png"
     },
     {
-        "merged": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_longpressed_holo.9.png",
-        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/drawable-mdpi-v4/abs__list_longpressed_holo.9.png"
-    },
-    {
         "merged": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_light.png",
         "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_longpressed_holo.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/drawable-mdpi-v4/abs__list_longpressed_holo.9.png"
     },
     {
         "merged": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_voice_search.png",

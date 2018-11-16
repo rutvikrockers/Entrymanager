@@ -42,7 +42,7 @@ public class Splash extends SherlockActivity {
 				//Log.e("app", cursor.getString(cursor.getColumnIndex("email")));
 				Constants.USER_ID = cursor.getString(cursor
 						.getColumnIndex("user_id"));
-				return true;
+
 			}
 		}
 		return false;

@@ -114,76 +114,7 @@ public class Dashboard extends SherlockActivity implements SearchView.OnQueryTex
 		String url ="http://mydesichef.com/ticketingsoft/mobile_logins/myevent?id=" + Constants.USER_ID ;
 		//fetchevent();
 		restInterface = ApiClient.getClient().create(RestInterface.class);
-		Call<MyEventPojo> call = restInterface.Myevent(Constants.USER_ID);
-	/*	call.enqueue(new Callback<MyEventPojo>() {
-			@Override
-			public void onResponse(Call<MyEventPojo> call, Response<MyEventPojo> response) {
-				loading.dismiss();
-				if(response.body().isSuccess()){
-					asyncrun = true;
-					eventsadapter.notifyDataSetChanged();
-					if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
-						invalidateOptionsMenu();
-					}
-					Gson gson = new Gson();
-					String responsePostAskQuestion = gson.toJson(response.body());
-					JSONArray jsonArray=new JSONArray();
-					try {
-						jsonArray = new JSONArray(responsePostAskQuestion);
-					} catch (JSONException e) {
-						e.printStackTrace();
-					}
-					try {
-						JSONObject jsonObj = new JSONObject(String.valueOf(jsonArray));
-						insert_events(jsonObj);
-						deleteUnexpected();
-					} catch(JSONException e) {
-						e.printStackTrace();
-					}
-				}
-			}
 
-			@Override
-			public void onFailure(Call<MyEventPojo> call, Throwable t) {
-                      t.printStackTrace();
-			}
-		});*/
-	/*	call.enqueue(new Callback<MyEventPojo>() {
-			@Override
-			public void onResponse(Call<MyEventPojo> call, Response<MyEventPojo> response) {
-				loading.dismiss();
-				if (response.body().isSuccess()) {
-				//	JSONObject jsobj = null;
-					*//*try {
-						JSONObject jsobj = new JSONObject(response.body().getAll_events());
-						insert_events(jsobj);
-						jsobj = new JSONObject(response.body().getAll_events().toString());
-					} catch (JSONException e) {
-						e.printStackTrace();
-					}*//*
-					//insert_events(jsobj);
-					//asyncrun = true;
-				*//*	try {
-				//		JSONObject jsobj = new JSONObject(response.body().getAll_events());
-						//insert_events(jsobj);
-					} catch (JSONException e) {
-						e.printStackTrace();
-					}*//*
-
-					eventsadapter.notifyDataSetChanged();
-					if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
-						invalidateOptionsMenu();
-					}
-				} else {
-					//ExecptionHandler.register(Dashboard.this, response.body().toString());
-				}
-			}
-
-			@Override
-			public void onFailure(Call<MyEventPojo> call, Throwable t) {
-                  t.printStackTrace();
-			}
-		});*/
 		listview.setAdapter(eventsadapter);
 		listview.setOnItemClickListener(listener);
 	//	fetchevent();
@@ -213,27 +144,7 @@ public class Dashboard extends SherlockActivity implements SearchView.OnQueryTex
 				params.put("id",Constants.USER_ID);
 				restInterface = ApiClient.getClient().create(RestInterface.class);
 				Call<MyEventPojo> call = restInterface.Myevent(Constants.USER_ID);
-			/*	call.enqueue(new Callback<MyEventPojo>() {
-					@Override
-					public void onResponse(Call<MyEventPojo> call, Response<MyEventPojo> response) {
-				      //  loading.dismiss();
-						if (response.body().isSuccess()) {
 
-							//asyncrun = true;
-							eventsadapter.notifyDataSetChanged();
-							if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {
-								invalidateOptionsMenu();
-							}
-						} else {
-							//ExecptionHandler.register(Dashboard.this, response.body().toString());
-						}
-					}
-
-					@Override
-					public void onFailure(Call<MyEventPojo> call, Throwable t) {
-						t.printStackTrace();
-					}
-				});*/
 				loginaync = new LoginAsync();
 				loginaync.execute((Void) null);
 				return false;
@@ -530,7 +441,7 @@ public class Dashboard extends SherlockActivity implements SearchView.OnQueryTex
 				.executeQuery("select * from `myevent` where `id`=" + id);
 		if (null != cursor) {
 			while (cursor.moveToNext()) {
-				return true;
+
 			}
 		}
 		cursor.moveToFirst();

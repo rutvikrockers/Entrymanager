@@ -1055,7 +1055,7 @@ public class ActionBarSherlockCompat extends ActionBarSherlock implements MenuBu
 
             final String packageName = activity.getApplicationInfo().packageName;
             final AssetManager am = activity.createPackageContext(packageName, 0).getAssets();
-            final XmlResourceParser xml = am.openXmlResourceParser("AndroidManifest.xml");
+             XmlResourceParser xml = am.openXmlResourceParser("AndroidManifest.xml");
 
             int eventType = xml.getEventType();
             while (eventType != XmlPullParser.END_DOCUMENT) {
