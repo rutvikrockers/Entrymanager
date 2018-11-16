@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+        "outputFile": "/Users/apple/Desktop/Entrymanager/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/values-w360dp-v13/values-w360dp-v13.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/values-w360dp-v13/values-w360dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

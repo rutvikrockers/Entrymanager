@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
+        "outputFile": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 139
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 214
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 295
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 354
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 450
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 532
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 624
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 706
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 788
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 860
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 942
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1027
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1112
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1195
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1293
                 },
                 "from": {
-                    "file": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
+                    "file": "/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/res/values-pl/abs__strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,

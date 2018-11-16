@@ -1,138 +1,138 @@
 [
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__search_dropdown_item_icons_2line.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__search_dropdown_item_icons_2line.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__screen_simple.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__screen_simple.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/events_row.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/layout/events_row.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__action_menu_item_layout.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__action_menu_item_layout.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_menu_item_layout.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/layout/activity_settings.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/activity_login.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/layout/activity_login.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/sherlock_spinner_item.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/sherlock_spinner_item.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/logo.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/layout/logo.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__action_mode_close_item.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_mode_close_item.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/activity_dashboard.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/layout/activity_dashboard.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/logo.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/layout/logo.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/single_attendee.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/layout/single_attendee.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/activity_event_detail.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/layout/activity_event_detail.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/indeterminate_progress_action.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/layout/indeterminate_progress_action.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/events_row.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/layout/events_row.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/activity_event_detail.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/layout/activity_event_detail.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/layout/main.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__list_menu_item_checkbox.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__list_menu_item_checkbox.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__screen_simple_overlay_action_mode.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__action_bar_home.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_bar_home.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__activity_chooser_view_list_item.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__activity_chooser_view_list_item.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__activity_chooser_view_list_item.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/layout/activity_splash.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__action_bar_tab.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_bar_tab.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__action_bar_title_item.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__list_menu_item_icon.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__list_menu_item_icon.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/activity_event_attendee.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/layout/activity_event_attendee.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/activity_settings.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/layout/activity_settings.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__popup_menu_item_layout.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__list_menu_item_radio.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__list_menu_item_radio.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__activity_chooser_view.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__action_bar_tab_bar_view.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_bar_tab_bar_view.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__simple_dropdown_hint.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__simple_dropdown_hint.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__search_view.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__search_view.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__action_bar_home.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_bar_home.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__activity_chooser_view.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__activity_chooser_view.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/sherlock_spinner_dropdown_item.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/sherlock_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__screen_action_bar.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__screen_action_bar.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/single_attendee.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/layout/single_attendee.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__screen_action_bar_overlay.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__screen_action_bar_overlay.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/activity_dashboard.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/layout/activity_dashboard.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__screen_simple.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__screen_simple.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__action_menu_layout.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_menu_layout.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__action_mode_bar.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_mode_bar.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__search_dropdown_item_icons_2line.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__action_bar_title_item.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_bar_title_item.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__list_menu_item_checkbox.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/layout/main.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/indeterminate_progress_action.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/layout/indeterminate_progress_action.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__action_menu_layout.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_menu_layout.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__screen_action_bar_overlay.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__screen_action_bar_overlay.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__simple_dropdown_hint.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__simple_dropdown_hint.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/activity_event_attendee.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/layout/activity_event_attendee.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__action_mode_bar.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_mode_bar.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/sherlock_spinner_dropdown_item.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/sherlock_spinner_dropdown_item.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__list_menu_item_radio.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__popup_menu_item_layout.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__popup_menu_item_layout.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__action_bar_tab.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_bar_tab.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__action_mode_close_item.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_mode_close_item.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__list_menu_item_icon.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/abs__screen_simple_overlay_action_mode.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__screen_simple_overlay_action_mode.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__action_bar_tab_bar_view.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__action_bar_tab_bar_view.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/activity_splash.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/layout/activity_splash.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__search_view.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__search_view.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/layout/sherlock_spinner_item.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/sherlock_spinner_item.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/layout/abs__screen_action_bar.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/actionbarsherlock/build/intermediates/bundles/default/res/layout/abs__screen_action_bar.xml"
     }
 ]

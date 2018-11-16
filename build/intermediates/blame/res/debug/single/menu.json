@@ -1,34 +1,34 @@
 [
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/menu/main_menu.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/menu/main_menu.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/menu/event_attendee.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/menu/event_attendee.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/menu/event_detail.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/menu/event_detail.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/menu/event_scanner.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/menu/event_scanner.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/menu/event_attendee.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/menu/event_attendee.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/menu/main_menu.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/menu/settings.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/menu/settings.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/menu/settings.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/menu/settings.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/menu/event_scanner.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/menu/event_scanner.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/menu/login.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/menu/login.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/menu/dashboard.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/menu/dashboard.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/menu/event_detail.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/menu/event_detail.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/menu/login.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/menu/login.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/menu/dashboard.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/menu/dashboard.xml"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/menu/splash.xml",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/menu/splash.xml"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/menu/splash.xml",
+        "source": "/Users/apple/Desktop/Entrymanager/res/menu/splash.xml"
     }
 ]

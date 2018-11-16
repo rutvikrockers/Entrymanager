@@ -1,15 +1,30 @@
-apply plugin: 'com.android.application'
 buildscript {
     repositories {
-        mavenLocal()
-        mavenCentral()
-        jcenter()
-        google()
+        maven { url 'https://maven.fabric.io/public' }
     }
+
     dependencies {
         classpath 'com.android.tools.build:gradle:2.3.2'
     }
+
 }
+
+plugins {
+    id "org.sonarqube" version "2.6"
+}
+
+apply plugin: 'com.android.application'
+//buildscript {
+//    repositories {
+//        mavenLocal()
+//        mavenCentral()
+//        jcenter()
+//        google()
+//    }
+//    dependencies {
+//        classpath 'com.android.tools.build:gradle:2.3.2'
+//    }
+//}
 
 allprojects {
     repositories {

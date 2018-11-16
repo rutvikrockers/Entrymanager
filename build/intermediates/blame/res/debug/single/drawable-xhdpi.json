@@ -1,30 +1,30 @@
 [
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/icons_big.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xhdpi/icons_big.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/scan_default.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xhdpi/scan_default.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/event_details.9.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xhdpi/event_details.9.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/button_background.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xhdpi/button_background.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/scan_default.9.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xhdpi/scan_default.9.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/event_details.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xhdpi/event_details.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/button_background.9.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xhdpi/button_background.9.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/check_in.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xhdpi/check_in.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/check_in.9.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xhdpi/check_in.9.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/textbox_login.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xhdpi/textbox_login.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/textbox_login.9.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xhdpi/textbox_login.9.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/checkdin.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xhdpi/checkdin.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/checkdin.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xhdpi/checkdin.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xhdpi/icons_big.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xhdpi/icons_big.png"
     }
 ]

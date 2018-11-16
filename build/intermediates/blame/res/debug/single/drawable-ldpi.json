@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-ldpi/icons_big.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-ldpi/icons_big.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-ldpi/button_login_nine.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-ldpi/button_login_nine.png"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-ldpi/icons_big.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-ldpi/icons_big.png"
     }
 ]

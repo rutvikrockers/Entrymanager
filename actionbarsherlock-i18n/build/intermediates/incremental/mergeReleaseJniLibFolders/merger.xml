@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/actionbarsherlock-i18n/build-types/release/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/apple/Desktop/Entrymanager/actionbarsherlock-i18n/build-types/release/jniLibs"/></dataSet></merger>

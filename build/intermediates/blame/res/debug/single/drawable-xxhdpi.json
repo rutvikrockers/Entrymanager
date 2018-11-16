@@ -1,34 +1,34 @@
 [
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/button_background.9.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xxhdpi/button_background.9.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/checkdin.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/checkdin.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/event_details.9.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xxhdpi/event_details.9.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/icons_big.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xxhdpi/icons_big.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/event_details.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/event_details.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/check_in.9.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xxhdpi/check_in.9.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/icons_big.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/icons_big.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/textbox_login.9.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xxhdpi/textbox_login.9.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/button_background.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/button_background.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xxhdpi/ic_launcher.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/textbox_login.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/textbox_login.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/scan_default.9.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xxhdpi/scan_default.9.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/scan_default.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/scan_default.9.png"
     },
     {
-        "merged": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/checkdin.png",
-        "source": "/Users/apple/Documents/Gaurav/Rutvik/EntryManagerPlayStoreMainApp/entrymanager/res/drawable-xxhdpi/checkdin.png"
+        "merged": "/Users/apple/Desktop/Entrymanager/build/intermediates/res/merged/debug/drawable-xxhdpi/check_in.9.png",
+        "source": "/Users/apple/Desktop/Entrymanager/res/drawable-xxhdpi/check_in.9.png"
     }
 ]
